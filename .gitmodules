@@ -1,0 +1,3 @@
+[submodule "SubDir"]
+	path = SubDir
+	url = https://github.com/iskailer/SubDir.git
